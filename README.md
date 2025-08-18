@@ -1,4 +1,3 @@
-Overview
 This Python script scans `.txt` email files for suspicious keywords and links, then assigns a risk score to each email.
 
 Features
