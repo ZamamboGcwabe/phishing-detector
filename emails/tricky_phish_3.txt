@@ -1,0 +1,6 @@
+Dear User,
+
+Your mailbox storage is full. You will not be able to send or receive new messages.  
+Increase storage here: http://mailbox.example.com@malicious-hacker.net  
+
+IT Support
