@@ -1,0 +1,7 @@
+Hi there,
+
+We noticed unusual login attempts from a new device in South Africa.  
+Review activity here: https://google.com.verify-session-authenticator.io  
+
+Stay safe,  
+Google Security Team
